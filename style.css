@@ -1,0 +1,118 @@
+body {
+  background-color: white;
+}
+
+.container a {
+  padding: 10px;
+  font-size: 20px;
+}
+
+.navbar {
+  color: white;
+}
+
+.navbar .container-fluid .navbar-brand {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  font-family: "Rochester", cursive;
+  margin-left: 130px;
+}
+
+.navbar .form {
+  position: center;
+}
+
+.collapse li {
+  margin-right: 20px;
+}
+
+.circular-profil img {
+  border: 1px solid transparent;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+  padding: 20px;
+  margin-left: 80px;
+}
+
+h4 {
+  padding: 20px;
+  margin: 10px;
+  text-decoration: none;
+}
+
+p {
+  margin-left: 30px;
+  justify-content: space-between;
+}
+.container .btn {
+  margin-left: 20px;
+}
+.container .btn a {
+  font-size: 14px;
+  color: black;
+  text-decoration: none;
+  text-align: center;
+}
+
+.row h6 {
+  margin-top: 5px;
+  margin-left: 30px;
+}
+
+.highlight img {
+  border: 1px solid transparent;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  border-radius: 50%;
+  padding: 10px;
+  margin-left: 50px;
+}
+
+.highlight h6 {
+  margin-top: 2px;
+  margin-left: 70px;
+}
+
+.highlight2 h6 {
+  margin-top: 2px;
+  margin-left: 30px;
+}
+
+.ikonatas a {
+  font-size: 14px;
+  margin-left: 160px;
+  margin-top: 0;
+}
+
+.highlight2 img {
+  border: 1px solid transparent;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  border-radius: 50%;
+  padding: 10px;
+  margin-left: 5px;
+}
+
+.snapgram2 img {
+  border: 1px solid transparent;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  border-radius: 50%;
+  padding: 10px;
+  margin-left: 20px;
+}
+
+.snapgram2 h6 {
+  margin-top: 2px;
+  margin-left: 30px;
+  justify-items: space-between;
+}
+
+.container .card {
+  margin-left: 70px;
+}
